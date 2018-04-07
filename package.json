@@ -1,0 +1,16 @@
+{
+  "name": "Micro CSS Framework",
+  "version": "1.0.0",
+  "description": "Reactive, component-oriented view layer for modern web interfaces.",
+  "main": "index.js",
+  "license": "MIT",
+  "keywords": [
+    "micro css framework"
+  ],
+  "author": "Christophor Wilson",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CSWilson/Micro-CSS-Framework.git"
+  },
+  "homepage": "https://github.com/CSWilson/Micro-CSS-Framework#readme",
+}
